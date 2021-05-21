@@ -1,0 +1,7 @@
+C:\Users\320067504\source\repos\PrintShape\PrintShape\bin\Debug\PrintShape.exe.config
+C:\Users\320067504\source\repos\PrintShape\PrintShape\bin\Debug\PrintShape.exe
+C:\Users\320067504\source\repos\PrintShape\PrintShape\bin\Debug\PrintShape.pdb
+C:\Users\320067504\source\repos\PrintShape\PrintShape\obj\Debug\PrintShape.csprojAssemblyReference.cache
+C:\Users\320067504\source\repos\PrintShape\PrintShape\obj\Debug\PrintShape.csproj.CoreCompileInputs.cache
+C:\Users\320067504\source\repos\PrintShape\PrintShape\obj\Debug\PrintShape.exe
+C:\Users\320067504\source\repos\PrintShape\PrintShape\obj\Debug\PrintShape.pdb
